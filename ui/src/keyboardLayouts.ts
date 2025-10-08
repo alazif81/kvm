@@ -25,7 +25,8 @@ import { fr_BE } from "@/keyboardLayouts/fr_BE"
 import { fr_CH } from "@/keyboardLayouts/fr_CH"
 import { fr_FR } from "@/keyboardLayouts/fr_FR"
 import { it_IT } from "@/keyboardLayouts/it_IT"
+import { ja_JP } from "@/keyboardLayouts/ja_JP"
 import { nb_NO } from "@/keyboardLayouts/nb_NO"
 import { sv_SE } from "@/keyboardLayouts/sv_SE"
 
-export const keyboards: KeyboardLayout[] = [ cs_CZ, de_CH, de_DE, en_UK, en_US, es_ES, fr_BE, fr_CH, fr_FR, it_IT, nb_NO, sv_SE ];
+export const keyboards: KeyboardLayout[] = [ cs_CZ, de_CH, de_DE, en_UK, en_US, es_ES, fr_BE, fr_CH, fr_FR, it_IT, ja_JP, nb_NO, sv_SE ];
